@@ -2,29 +2,29 @@
 <h3 align="center">A Technical Consultant and Corporate Trainer</h3>
 
 ## About Me
-Hello! I'm Shubham Dalvi, a seasoned Technical Consultant and Corporate Trainer with a strong foundation in Linux administration. My journey in the tech industry began with OpenStack, and over the years, I've honed my skills in cloud computing, particularly with AWS. 
+Hello! I'm Shubham Dalvi, a seasoned Technical Consultant and Corporate Trainer with a strong foundation in Linux administration and Cloud Computing. My journey in the tech industry began as a Linux Administrator, and over the years, I've honed my skills in cloud computing, particularly with AWS, containerization, and automation. 
 
 ## Professional Journey
+- **Linux Administrator:** I kickstarted my career as a Linux Administrator, gaining valuable expertise in managing and optimizing Linux-based systems.
 - **AWS Expertise:** I have been an integral part of teams handling day-to-day AWS operations, contributing significantly to projects involving the migration of workloads to AWS.
-  
-- **Technological Proficiency:** My skill set includes working with Docker, Kubernetes, Ansible, Bash scripting, and I have hands-on experience with Azure and GCP.
+- **Technological Proficiency:** My skill set includes working with Docker, Kubernetes, Ansible, and Bash scripting, and I have hands-on experience with Azure and GCP.
 
 ## Passion for Training
 - **Authorized AWS Instructor:** As a certified AWS Authorized Instructor, I channel my passion for teaching into delivering high-impact training sessions.
 
-- **Training Focus:** My primary focus lies in empowering individuals through knowledge transfer. I'm enthusiastic about sharing insights and best practices in cloud technologies.
+- **Training Focus:** My primary focus is empowering individuals through knowledge transfer. I'm enthusiastic about sharing insights and best practices in cloud technologies.
 
 ## Current Role
 - **Corporate Trainer & Technical Consultant:** In my current role, I leverage my extensive experience to provide consultancy services while actively engaging in corporate training.
 
 ## Get in Touch
-- **LinkedIn:** [Shubham Dalvi](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email:** your.email@example.com
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-Feel free to reach out for collaborations, discussions, or if you're interested in enhancing your skills in the exciting world of cloud computing!
+- **LinkedIn:** [Shubham Dalvi](https://www.linkedin.com/in/shubham-dalvi-a7070216b/)
+- **Email:** shubhamrdalvi@yahoo.in
+- **Mobile:** +91 8767699757
 
 
+
+Feel free to reach out for collaborations, and discussions, or if you're interested in enhancing your skills in the exciting world of cloud computing!
 
 
 <h3 align="left">Connect with me:</h3>
