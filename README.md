@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Dalvi</h1>
 <h3 align="center">A Technical Consultant and Corporate Trainer</h3>
 
+<img align="right" alt="image" width="400" src="![image](https://github.com/shubhamrd/shubhamrd/assets/46080215/c5581710-b8af-4fd2-837e-fbb949e2c8b9)">
+ 
 ## About Me
 Hello! I'm Shubham Dalvi, a seasoned Technical Consultant and Corporate Trainer with a strong foundation in Linux administration and Cloud Computing. My journey in the tech industry began as a Linux Administrator, and over the years, I've honed my skills in cloud computing, particularly with AWS, containerization, and automation. 
 
