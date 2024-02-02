@@ -18,6 +18,22 @@ Hello! I'm Shubham Dalvi, a seasoned Technical Consultant and Corporate Trainer 
 ## Current Role
 - **Corporate Trainer & Technical Consultant:** In my current role, I leverage my extensive experience to provide consultancy services while actively engaging in corporate training.
 
+# My Repositories
+
+
+| Repository Name      | Description                                       |
+|----------------------|---------------------------------------------------|
+| [AWS Repo](https://github.com/shubhamrd/AWS)  | Content, code, and workshops related to AWS.      |
+| [Linux Repo](https://github.com/shubhamrd/Linux) | Explore Linux-related content and scripts.    |
+| [Kubernetes Repo](https://github.com/shubhamrd/Kubernetes) | Kubernetes workshops, code, and tips.     |
+| [Docker Repo](https://github.com/shubhamrd/Docker)     | Docker-related content, projects, and guides. |
+| [Ansible Repo](https://github.com/shubhamrd/Ansible)   | Ansible playbooks, tutorials, and more.      |
+| [Jenkins](https://github.com/shubhamrd/jenkins)   | Jenkins Practices.      |
+
+Feel free to explore and contribute!
+
+
+
 ## Get in Touch
 - **LinkedIn:** [Shubham Dalvi](https://www.linkedin.com/in/shubham-dalvi-a7070216b/)
 - **Email:** shubhamrdalvi@yahoo.in
