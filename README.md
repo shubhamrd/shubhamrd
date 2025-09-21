@@ -39,7 +39,7 @@ Feel free to explore and contribute!
 ## Get in Touch
 - **LinkedIn:** [Shubham Dalvi](https://www.linkedin.com/in/shubham-dalvi-a7070216b/)
 - **Email:** shubhamrdalvi@yahoo.in
-- **Mobile:** +91 8767699757
+
 
 
 
